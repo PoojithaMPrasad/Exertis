@@ -1,2 +1,0 @@
-# Exertis
-TechnicalTest
